@@ -1,4 +1,4 @@
-# Hi, I'm Cebtenzzre
+Hacking on [GPT4All](https://github.com/nomic-ai/gpt4all) and [llama.cpp](https://github.com/ggerganov/llama.cpp) for [Nomic](https://home.nomic.ai/)
 
 ## About Me
 - I'm a self-taught programmer from upstate New York.
@@ -9,6 +9,7 @@
 - I have a ten-year-old Lenovo Thinkpad and I won't settle for anything newer.
 
 ## Projects & Contributions
+- [GPT4All](https://github.com/nomic-ai/gpt4all) developer
 - Maintainer of [rmlint](https://github.com/sahib/rmlint)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) collaborator
 - I forked [tumblr-utils](https://github.com/Cebtenzzre/tumblr-utils)
@@ -18,5 +19,4 @@
 ## Find Me
 
 [@cebtenzzre on GitLab](https://gitlab.com/cebtenzzre)<br>
-Email: [cebtenzzre (AT) gmail (DOT) com](mailto:cebtenzzre@gmail.com)<br>
-Zirconium#6375 on [Discord](https://discord.com/)
+Email: [cebtenzzre (AT) gmail (DOT) com](mailto:cebtenzzre@gmail.com)

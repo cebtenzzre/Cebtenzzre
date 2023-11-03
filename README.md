@@ -1,4 +1,7 @@
+<br>
+
 Hacking on [GPT4All](https://github.com/nomic-ai/gpt4all) and [llama.cpp](https://github.com/ggerganov/llama.cpp) for [Nomic](https://home.nomic.ai/)
+<br><br>
 
 ## About Me
 - I'm a self-taught programmer from upstate New York.

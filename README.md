@@ -4,7 +4,7 @@ Hacking on [GPT4All](https://github.com/nomic-ai/gpt4all) and [llama.cpp](https:
 <br><br>
 
 ## About Me
-- I'm a self-taught programmer from upstate New York.
+- I'm a self-taught programmer in NYC.
 - I have written many lines of C, C++, Python, bash, and zsh.
 - I've seen enough segfaults to learn how to use GDB pretty well.
 - I use Arch Linux daily, but I'm also comfortable with Debian and Ubuntu.

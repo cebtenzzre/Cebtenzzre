@@ -13,7 +13,6 @@ Hacking on [GPT4All](https://github.com/nomic-ai/gpt4all) and [llama.cpp](https:
 
 ## Projects & Contributions
 - [GPT4All](https://github.com/nomic-ai/gpt4all) developer
-- Maintainer of [rmlint](https://github.com/sahib/rmlint)
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) collaborator
 - I forked [tumblr-utils](https://github.com/Cebtenzzre/tumblr-utils)
 - I forked [gThumb](https://github.com/Cebtenzzre/gthumb)
